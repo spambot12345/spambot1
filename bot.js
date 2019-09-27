@@ -68,7 +68,7 @@ client.on('message', message => {
 
 
 if (command == "تحدث") {
-let rank = message.guild.member(message.author).roles.find();
+let rank = message.guild.member(message.author).roles.find(#credits @!♛ჯNἔἷᾗ • - RS 🎇#9224 500);
 if (!rank) return message.reply(' ')
   message.channel.send(args.join("  "))
     message.delete();
@@ -119,7 +119,7 @@ client2.on('message', message => {
 
 
 if (command == "تحدث") {
-let rank = message.guild.member(message.author).roles.find();
+let rank = message.guild.member(message.author).roles.find(#credits @!♛ჯNἔἷᾗ • - RS 🎇#9224 500);
 if (!rank) return message.reply(' ')
   message.channel.send(args.join("  "))
     message.delete();
